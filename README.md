@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Nourhouda Jarboui</h1>
+<h1 align="center">👋 Bonjour, je suis Nour ELhouda Jarboui</h1>
 <h3 align="center">Étudiante en ingénierie informatique | Développeuse Web Full Stack</h3>
 
 <p align="center">
